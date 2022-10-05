@@ -1,0 +1,11 @@
+C:\desenvolvimento\workspace\BdPartitionerLocalJob\src\main\java\com\springbatch\bdpartitionerlocal\step\MigrarDadosBancariosStepConfig.java
+C:\desenvolvimento\workspace\BdPartitionerLocalJob\src\main\java\com\springbatch\bdpartitionerlocal\dominio\Pessoa.java
+C:\desenvolvimento\workspace\BdPartitionerLocalJob\src\main\java\com\springbatch\bdpartitionerlocal\step\MigrarPessoaStepConfig.java
+C:\desenvolvimento\workspace\BdPartitionerLocalJob\src\main\java\com\springbatch\bdpartitionerlocal\job\BdPartitionerLocalJobConfig.java
+C:\desenvolvimento\workspace\BdPartitionerLocalJob\src\main\java\com\springbatch\bdpartitionerlocal\reader\BancoPessoaReaderConfig.java
+C:\desenvolvimento\workspace\BdPartitionerLocalJob\src\main\java\com\springbatch\bdpartitionerlocal\BdPartitionerLocalJobApplication.java
+C:\desenvolvimento\workspace\BdPartitionerLocalJob\src\main\java\com\springbatch\bdpartitionerlocal\config\DataSourceConfig.java
+C:\desenvolvimento\workspace\BdPartitionerLocalJob\src\main\java\com\springbatch\bdpartitionerlocal\dominio\DadosBancarios.java
+C:\desenvolvimento\workspace\BdPartitionerLocalJob\src\main\java\com\springbatch\bdpartitionerlocal\reader\BancoDadosBancariosReaderConfig.java
+C:\desenvolvimento\workspace\BdPartitionerLocalJob\src\main\java\com\springbatch\bdpartitionerlocal\writer\BancoPessoaWriterConfig.java
+C:\desenvolvimento\workspace\BdPartitionerLocalJob\src\main\java\com\springbatch\bdpartitionerlocal\writer\BancoDadosBancariosWriterConfig.java
