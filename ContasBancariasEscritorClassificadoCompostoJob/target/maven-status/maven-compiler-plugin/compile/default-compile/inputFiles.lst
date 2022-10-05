@@ -1,0 +1,16 @@
+C:\desenvolvimento\workspace\ContasBancariasJob\src\main\java\br\com\estudo\contasbancariasjob\config\DatasourcePropertiesConfig.java
+C:\desenvolvimento\workspace\ContasBancariasJob\src\main\java\br\com\estudo\contasbancariasjob\processor\ContasBancariasOuroProcessor.java
+C:\desenvolvimento\workspace\ContasBancariasJob\src\main\java\br\com\estudo\contasbancariasjob\job\ContasBancariasJobConfig.java
+C:\desenvolvimento\workspace\ContasBancariasJob\src\main\java\br\com\estudo\contasbancariasjob\processor\ContasBancariasDiamanteProcessor.java
+C:\desenvolvimento\workspace\ContasBancariasJob\src\main\java\br\com\estudo\contasbancariasjob\processor\ContasBancariasPlatinaProcessor.java
+C:\desenvolvimento\workspace\ContasBancariasJob\src\main\java\br\com\estudo\contasbancariasjob\processor\ContasBancariasClassifier.java
+C:\desenvolvimento\workspace\ContasBancariasJob\src\main\java\br\com\estudo\contasbancariasjob\step\ContaBancariaStepConfig.java
+C:\desenvolvimento\workspace\ContasBancariasJob\src\main\java\br\com\estudo\contasbancariasjob\writer\ContasBancariasContaWriterConfig.java
+C:\desenvolvimento\workspace\ContasBancariasJob\src\main\java\br\com\estudo\contasbancariasjob\reader\ContasBancariasClienteReaderConfig.java
+C:\desenvolvimento\workspace\ContasBancariasJob\src\main\java\br\com\estudo\contasbancariasjob\config\DatasourcesConfig.java
+C:\desenvolvimento\workspace\ContasBancariasJob\src\main\java\br\com\estudo\contasbancariasjob\ContasBancariasJobApplication.java
+C:\desenvolvimento\workspace\ContasBancariasJob\src\main\java\br\com\estudo\contasbancariasjob\processor\ContasBancariasClienteContaProcessorConfig.java
+C:\desenvolvimento\workspace\ContasBancariasJob\src\main\java\br\com\estudo\contasbancariasjob\dominio\Cliente.java
+C:\desenvolvimento\workspace\ContasBancariasJob\src\main\java\br\com\estudo\contasbancariasjob\dominio\TipoConta.java
+C:\desenvolvimento\workspace\ContasBancariasJob\src\main\java\br\com\estudo\contasbancariasjob\dominio\Conta.java
+C:\desenvolvimento\workspace\ContasBancariasJob\src\main\java\br\com\estudo\contasbancariasjob\processor\ContasBancariasPrataProcessor.java
