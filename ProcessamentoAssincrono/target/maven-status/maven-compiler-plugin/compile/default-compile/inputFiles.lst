@@ -1,0 +1,12 @@
+C:\desenvolvimento\workspace\ProcessamentoAssincrono\src\main\java\com\springbatch\migracaodados\dominio\Pessoa.java
+C:\desenvolvimento\workspace\ProcessamentoAssincrono\src\main\java\com\springbatch\migracaodados\reader\ArquivoDadosBancariosReaderConfig.java
+C:\desenvolvimento\workspace\ProcessamentoAssincrono\src\main\java\com\springbatch\migracaodados\job\ProcessamentoAssincronoJobConfig.java
+C:\desenvolvimento\workspace\ProcessamentoAssincrono\src\main\java\com\springbatch\migracaodados\reader\ArquivoPessoaReaderConfig.java
+C:\desenvolvimento\workspace\ProcessamentoAssincrono\src\main\java\com\springbatch\migracaodados\ProcessamentoAssincronoApplication.java
+C:\desenvolvimento\workspace\ProcessamentoAssincrono\src\main\java\com\springbatch\migracaodados\writer\BancoPessoaWriterConfig.java
+C:\desenvolvimento\workspace\ProcessamentoAssincrono\src\main\java\com\springbatch\migracaodados\config\DataSourceConfig.java
+C:\desenvolvimento\workspace\ProcessamentoAssincrono\src\main\java\com\springbatch\migracaodados\step\MigrarDadosBancariosStepConfig.java
+C:\desenvolvimento\workspace\ProcessamentoAssincrono\src\main\java\com\springbatch\migracaodados\writer\BancoDadosBancariosWriterConfig.java
+C:\desenvolvimento\workspace\ProcessamentoAssincrono\src\main\java\com\springbatch\migracaodados\processor\PessoaProcessorConfig.java
+C:\desenvolvimento\workspace\ProcessamentoAssincrono\src\main\java\com\springbatch\migracaodados\dominio\DadosBancarios.java
+C:\desenvolvimento\workspace\ProcessamentoAssincrono\src\main\java\com\springbatch\migracaodados\step\MigrarPessoaStepConfig.java
